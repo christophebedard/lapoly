@@ -3,3 +3,10 @@
     font-size: 3000%;
     font-weight: 800;
 }
+
+.explanation {
+    text-align: center;
+    font-size: 200%;
+    font-weight: 60;
+    font-style: italic;
+}
