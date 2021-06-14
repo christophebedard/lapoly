@@ -4,6 +4,11 @@
     font-weight: 800;
 }
 
+.very-important-image {
+    text-align: center;
+    font-size: 2000%;
+}
+
 .explanation {
     text-align: center;
     font-size: 200%;
